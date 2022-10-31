@@ -1,6 +1,3 @@
 print("CommonID test")
-<<<<<<< HEAD
-print("Common main")
-=======
-print("Scanid test")
->>>>>>> scanid
+
+
